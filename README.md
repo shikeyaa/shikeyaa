@@ -1,9 +1,5 @@
 ### Hello World 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... a doggy application for Android and my porfolio
 - 🌱 I’m currently learning ...  UX Design and Mobile App Development
 - 👯 I’m looking to collaborate on ... any projects that can build my skills
