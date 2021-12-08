@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on ... a doggy application for Android and my porfolio
+- 🔭 I’m currently working on ... Machine Learning for Android and my UX Design porfolio
 - 🌱 I’m currently learning ...  UX Design and Mobile App Development
 - 👯 I’m looking to collaborate on ... any projects that can build my skills
 - 💬 Ask me about ... my new career interest
